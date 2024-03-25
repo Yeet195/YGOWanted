@@ -9,7 +9,7 @@ The ygoprodeck API only supports Super- and Ultra Rare versions of the Rarity Co
 Use to convert YDK to a .txt file https://yugiohdeck.github.io/# by @gallantron#1059, /u/gallantron<br>
 API by https://www.reddit.com/user/AlanOC91/<p>
 
-## ---------------------------------------------------------------------------------------------
+
 added support for special character '&'<br>
 addded ability to select sorting order<br>
 fixed bug where versions are inconsistent<br>
